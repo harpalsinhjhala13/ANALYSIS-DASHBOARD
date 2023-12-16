@@ -1,6 +1,26 @@
 # ANALYSIS-DASHBOARD
 ANALYSIS DASHBOARD
 
+
+![Screenshot 2023-12-16 132318](https://github.com/harpalsinhjhala13/ANALYSIS-DASHBOARD/assets/141703984/1889b640-5947-453b-84c9-44756b4a5f00)
+
+
+
+
+
+
+
+
+![Screenshot 2023-12-16 132336](https://github.com/harpalsinhjhala13/ANALYSIS-DASHBOARD/assets/141703984/c731f685-132d-4c9d-b839-5d1103ed84d9)
+
+
+
+
+
+
+
+
+
 ****Introduction:****
 In the ever-evolving landscape of retail, data-driven decision-making has become paramount for success. This project leverages the robust capabilities of Power BI, coupled with advanced data analytics and visualization skills, to develop a comprehensive dashboard that provides actionable insights for a clothing retail business. The project encompasses a wide range of analyses, including sell-through ratios across different departments (frock, gown, suit), brand performance evaluation, SKU (Stock Keeping Unit) analysis, and a detailed examination of sales and revenue across various dimensions.
 
