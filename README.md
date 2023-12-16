@@ -27,6 +27,15 @@ In the ever-evolving landscape of retail, data-driven decision-making has become
 ****Objective:****
 The primary goal of this project is to empower the clothing retail business with a powerful analytics tool that enables effective decision-making. By combining the skillset of data analytics, data visualization, SQL, Excel, and Power BI, the project aims to deliver a user-friendly, dynamic, and insightful dashboard. The key focus areas include sell-through ratios, brand analysis, SKU performance, and an in-depth examination of sales and revenue across different sites, departments, and brands.
 
+
+
+![Screenshot 2023-12-16 132411](https://github.com/harpalsinhjhala13/ANALYSIS-DASHBOARD/assets/141703984/cdf71b15-2b30-4768-809e-b0ecb06b2294)
+
+
+
+
+
+
 ****Methodology:****
 1. ****Data Collection and Cleaning:****
    - Gathered raw data from various sources, including sales transactions, inventory logs, and vendor information.
@@ -45,6 +54,15 @@ The primary goal of this project is to empower the clothing retail business with
    - Designed a visually appealing and user-friendly dashboard interface.
    - Implemented interactive features for dynamic data exploration and analysis.
    - Employed Power BI's rich visualization options to effectively communicate complex data relationships.
+
+
+
+![Screenshot 2023-12-16 132425](https://github.com/harpalsinhjhala13/ANALYSIS-DASHBOARD/assets/141703984/f439901e-5a19-432c-b578-4a6221d4383e)
+
+
+
+
+
 
 **Dashboard Components:**
 1. **Sell-Through Ratio Analysis:**
@@ -68,6 +86,15 @@ The primary goal of this project is to empower the clothing retail business with
    - Evaluation of all sites to identify top-performing stores and brands.
    - Visual representation of key performance indicators for each site.
 
+
+
+
+![Screenshot 2023-12-16 132607](https://github.com/harpalsinhjhala13/ANALYSIS-DASHBOARD/assets/141703984/c45d5b19-2698-4202-8fd0-002517fefe8c)
+
+
+
+
+
 **Benefits and Impact:**
 1. **Informed Decision-Making:**
    - Empowers business stakeholders with actionable insights for strategic decision-making.
@@ -85,5 +112,13 @@ The primary goal of this project is to empower the clothing retail business with
    - Contributes to overall business growth by identifying and promoting high-performing elements.
    - Provides a holistic view of the business, fostering continuous improvement.
 
+
+
+![Screenshot 2023-12-16 132506](https://github.com/harpalsinhjhala13/ANALYSIS-DASHBOARD/assets/141703984/1f08ceac-d1d8-49af-9244-36933b5e25b7)
+
+
+
+
 **Conclusion:**
 This Power BI dashboard, designed with a robust skillset encompassing data analytics, visualization, SQL, Excel, and Power BI, serves as a comprehensive tool for the clothing retail business. By delving into sell-through ratios, brand performance, SKU analysis, and sales and revenue metrics, the dashboard empowers the business to make informed decisions, optimize operations, and drive enhanced business performance. The project's impact is far-reaching, providing a dynamic platform for continuous improvement and growth in the competitive retail landscape.
+![Screenshot 2023-12-16 132534](https://github.com/harpalsinhjhala13/ANALYSIS-DASHBOARD/assets/141703984/581576d3-a34e-492e-804c-276dc8c7bb80)
